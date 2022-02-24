@@ -3,3 +3,7 @@
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
+:root {
+	--main-color: #ffffff;
+	--main-width: 970px;
+}
