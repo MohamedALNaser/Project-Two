@@ -17,6 +17,9 @@
 body {
 	font-family: "Open Sans", sans-serif;
 }
+button {
+	cursor: pointer;
+}
 
 .container {
 	width: var(--main-container);
@@ -332,6 +335,7 @@ header .container .search.icon svg {
 }
 .AWESOMEVIDEO {
 	padding: 176px 0;
+	background-image: url(../media/landing.jpg);
 }
 
 .AWESOMEVIDEO .contain {
